@@ -90,3 +90,7 @@ project*/
 #project .card-title {
   font-weight: bold;
 }
+.card.mb-3 {
+    width: 94%;
+    margin: 0 auto;
+}
